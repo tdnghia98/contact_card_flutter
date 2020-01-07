@@ -1,6 +1,6 @@
 # mi_card
 
-A new Flutter project.
+A simple contact card in Flutter.
 
 ## Getting Started
 
